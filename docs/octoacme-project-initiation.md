@@ -29,9 +29,20 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Quick risks & dependencies:
 - Proposed team / roles:
 
+## Cross-Functional Considerations
+At initiation, identify whether the following functions are needed and loop them in early:
+- **UX Designer** — if user-facing workflows are in scope
+- **Data Analyst** — to define success metrics and analytics strategy from the start
+- **Security Lead** — for initial threat modeling and compliance assessment
+- **Customer Support Representative** — to surface known user pain points that should inform scope
+- **Technical Writer** — to estimate documentation scope as part of resource planning
+
+See [Cross-Functional RACI & Handoff Guide](octoacme-cross-functional-raci.md) for a full role-to-ceremony matrix and the kickoff handoff checklist.
+
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Cross-functional roles identified (UX, Data, Security, Support, Docs) and notified
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)

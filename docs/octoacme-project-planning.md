@@ -36,8 +36,12 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
 ## Planning Checklist
-- [ ] Project kickoff held
+- [ ] Project kickoff held (all cross-functional roles invited per [RACI guide](octoacme-cross-functional-raci.md))
 - [ ] Backlog prioritized and estimated
+- [ ] Analytics & success metrics defined (Data Analyst aligned)
+- [ ] Design scope confirmed with UX Designer
+- [ ] Documentation plan agreed with Technical Writer
+- [ ] Security requirements captured (Security Lead consulted)
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
