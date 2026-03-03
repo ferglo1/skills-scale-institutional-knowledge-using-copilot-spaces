@@ -39,4 +39,9 @@ Incident Communication
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- For security incidents, follow the security incident runbook and notify the **Security Lead** and Security on-call
+- For customer-facing issues, involve the **Customer Support Representative** and align on external communication with Product Manager and Technical Writer
+
+## Related Documents
+- [Roles and Personas](octoacme-roles-and-personas.md)
+- [Cross-Functional RACI & Handoff Guide](octoacme-cross-functional-raci.md)

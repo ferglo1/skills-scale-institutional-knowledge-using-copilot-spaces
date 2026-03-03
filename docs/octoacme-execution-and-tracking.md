@@ -36,5 +36,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
-- [ ] Regular demos scheduled
+- [ ] Security scanning enabled in CI (Security Lead owns standards)
+- [ ] Instrumentation/analytics in place per Data Analyst requirements
+- [ ] Regular demos scheduled (include UX Designer for design validation)
+- [ ] Support feedback loop active (Customer Support Representative reporting trends)
 - [ ] Risk register updated weekly
